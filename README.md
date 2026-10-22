@@ -106,7 +106,6 @@ flutter run
 
 ## Screenshots
 
-<img width="250"  alt="Screenshot_1792676213" src="https://github.com/user-attachments/assets/2234f304-f348-441e-93d6-787fc522a05e" />
 <img width="250"  alt="Screenshot_1792676219" src="https://github.com/user-attachments/assets/b6b8893c-e20d-45c1-90ad-228d5b818808" />
 <img width="250"  alt="Screenshot_1792676382" src="https://github.com/user-attachments/assets/29001690-2dfa-4ab8-bd46-6b0f3a63d9f8" />
 <img width="250"  alt="Screenshot_1792676409" src="https://github.com/user-attachments/assets/7ce27904-8abf-4220-8605-49b577af442d" />
@@ -114,7 +113,6 @@ flutter run
 <img width="250"  alt="Screenshot_1792676931" src="https://github.com/user-attachments/assets/c04eda17-d6af-4bac-8cba-bac78f7676c1" />
 <img width="250"  alt="Screenshot_1792676946" src="https://github.com/user-attachments/assets/40e3c2ef-26f7-4d97-826f-e301f87ed4f8" />
 <img width="250"  alt="Screenshot_1792676960" src="https://github.com/user-attachments/assets/7ac2bf8b-c3f9-41c6-8d43-ce0653e4573c" />
-<img width="250"  alt="Screenshot_1792676964" src="https://github.com/user-attachments/assets/dbe34aa0-85d8-45b0-94d3-846737f95c74" />
 <img width="250"  alt="Screenshot_1792676971" src="https://github.com/user-attachments/assets/42d541c6-24bf-42f5-8a81-9e28050fe162" />
 <img width="250"  alt="Screenshot_1792677012" src="https://github.com/user-attachments/assets/b45c119a-81ca-4ea7-8b52-427187b620b5" />
 
