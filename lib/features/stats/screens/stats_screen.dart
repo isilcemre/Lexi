@@ -459,9 +459,10 @@ class _WordTypeList extends StatelessWidget {
             WordType.pronoun => AppColors.pronoun,
             WordType.preposition => AppColors.preposition,
             WordType.conjunction => AppColors.conjunction,
-            WordType.determiner => AppColors.determiner,
-            WordType.interjection => AppColors.interjection,
-            WordType.other => AppColors.other,
+            WordType.phrase => AppColors.phrase,
+            WordType.idiom => AppColors.idiom,
+            WordType.phrasalVerb => AppColors.phrasalVerb,
+            WordType.collocation => AppColors.collocation,
           };
 
           return Padding(

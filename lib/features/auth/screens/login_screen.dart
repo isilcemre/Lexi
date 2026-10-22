@@ -316,7 +316,7 @@ class _LoginScreenState extends ConsumerState<LoginScreen> {
                     .sendPasswordResetEmail(emailCtrl.text.trim());
                 if (ctx.mounted) {
                   Navigator.pop(ctx);
-                  ScaffoldMessenger.of(context).showSnackBar(
+                  ScaffoldMessenger.of(ctx).showSnackBar(
                     const SnackBar(content: Text('Reset email sent!')),
                   );
                 }
